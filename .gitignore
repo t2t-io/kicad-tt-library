@@ -25,3 +25,5 @@ _autosave-*
 *.xml
 *.csv
 
+# OS specific files
+.DS_Store
