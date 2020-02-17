@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name mSchLibrary)(type Legacy)(uri ${KIPRJMOD}/mSchLibrary.lib)(options "")(descr ""))
+)
