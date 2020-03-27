@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SRS-1212
+D 0.5W DC-DC Regulated Single Output Converter
+K 0.5W DC-DC Regulated Single Output Converter
+F https://www.meanwellusa.com/productPdf.aspx?i=68#1
+$ENDCMP
+#
 $CMP TB67H451FNG
 D PWM Chopper Type DC Brushed Motor Driver
 K PWM Chopper Type DC Brushed Motor Driver
