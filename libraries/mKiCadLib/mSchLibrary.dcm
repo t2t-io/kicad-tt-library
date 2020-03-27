@@ -12,4 +12,9 @@ K DUAL-BRIDGE DRIVER IC FOR DC MOTORS
 F https://toshiba.semicon-storage.com/ap-en/semiconductor/product/motor-driver-ics/brushed-dc-motor-driver-ics/detail.TC78H600FTG.html
 $ENDCMP
 #
+$CMP TPS55340RTET
+D Integrated 5-A Wide Input Range Boost/SEPIC/Flyback DC/DC Regulator
+K Integrated 5-A Wide Input Range Boost/SEPIC/Flyback DC/DC Regulator
+$ENDCMP
+#
 #End Doc Library

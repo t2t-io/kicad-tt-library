@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name mSchLibrary)(type Legacy)(uri ${KIPRJMOD}/mSchLibrary.lib)(options "")(descr ""))
+  (lib (name mSchLibrarycopy)(type Legacy)(uri F:/project/urochecker/layout/HW/UroChecker/Library/mSchLibrary.lib)(options "")(descr "")(disabled))
 )

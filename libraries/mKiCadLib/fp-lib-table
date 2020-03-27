@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name mFootPrintLibrary)(type KiCad)(uri ${KIPRJMOD}/mFootPrintLibrary.pretty)(options "")(descr ""))
+  (lib (name mFootPrintLibraryCOPY)(type KiCad)(uri F:/project/urochecker/layout/HW/UroChecker/Library/mFootPrintLibrary.pretty)(options "")(descr ""))
 )
