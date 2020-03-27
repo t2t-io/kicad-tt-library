@@ -1,4 +1,4 @@
-16359318214724176
+16410041517951127
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -72890,259 +72890,483 @@ varistor SIOV
 0
 2
 2
-mFootprintLib
+mFootPrintLibrary
 (RUX)_Package_12_Pin_VQFN_HR
 
 
 0
 36
 12
-mFootprintLib
+mFootPrintLibrary
 24_Ball_FBGA,_6x8mm,5x5_Ball_Footprint
 BGA-256, dimensions: http://www.issi.com/WW/pdf/66-67WVH8M8ALL-BLL.pdf, design rules: https://www.xilinx.com/support/documentation/user_guides/ug1099-bga-device-design-rules.pdf
 8M x 8 HyperRAM™ self-refresh DRAM array
 0
 24
 24
-mFootprintLib
+mFootPrintLibrary
 AC connector
 
 
 0
 6
 3
-mFootprintLib
+mFootPrintLibrary
 ACconnector2pad
 
 
 0
 4
 2
-mFootprintLib
+mFootPrintLibrary
 BQ21040DBVR
 
 
 0
 18
 6
-mFootprintLib
+mFootPrintLibrary
 BT407
 
 
 0
 2
 2
-mFootprintLib
+mFootPrintLibrary
 DPST_conn
 
 
 0
 4
 4
-mFootprintLib
+mFootPrintLibrary
 ECHU
 
 
 0
 2
 2
-mFootprintLib
+mFootPrintLibrary
 ESDA6V8AV6
 SOT563
 SOT-563
 0
 6
 6
-mFootprintLib
+mFootPrintLibrary
 ESD_0402_1005Metric
 SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 ESD protection
 0
 2
 2
-mFootprintLib
+mFootPrintLibrary
 FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal
 
 connector Hirose FH12 horizontal
 0
 42
 41
-mFootprintLib
+mFootPrintLibrary
 FSMD200-1206R
 
 
 0
 2
 2
-mFootprintLib
+mFootPrintLibrary
 FSMD1812
 
 
 0
 2
 2
-mFootprintLib
+mFootPrintLibrary
 GSDR43
 
 
 0
 2
 2
-mFootprintLib
+mFootPrintLibrary
 GSDR54
 
 
 0
 2
 2
-mFootprintLib
+mFootPrintLibrary
 HANRUN_HR911105A
 
 
 0
 14
 14
-mFootprintLib
+mFootPrintLibrary
 LXRW0YV600-054
 
 
 0
 4
 4
-mFootprintLib
+mFootPrintLibrary
 MDBT42Q
 
 
 0
 41
 41
-mFootprintLib
-MFC15-15S
-
-
-0
-4
-4
-mFootprintLib
+mFootPrintLibrary
 MOLEX_51281-0594
 
 
 0
 7
 7
-mFootprintLib
+mFootPrintLibrary
 NFC_antenna
 
 
 0
 3
 3
-mFootprintLib
+mFootPrintLibrary
 NFM21PC
 
 
 0
 4
 3
-mFootprintLib
+mFootPrintLibrary
 PS-22F43-L
 
 
 0
 8
 7
-mFootprintLib
-RRC-MC20-180-10
-battery holder
-Standard Battery Pack Li-Ion
-0
-10
-5
-mFootprintLib
+mFootPrintLibrary
 SC70-5
 SC70-5
 SC70-5
 0
 15
 5
-mFootprintLib
+mFootPrintLibrary
 SM1210RGB
 https://www.bivar.com/Files/Datasheets/SM1210RGB.pdf
 RGB LED 1210
 0
 4
 4
-mFootprintLib
+mFootPrintLibrary
 SMTM1632
 
 
 0
 3
 2
-mFootprintLib
+mFootPrintLibrary
 SRP4012TA
 
 
 0
 2
 2
-mFootprintLib
-SX-59HLS
-SX-59HLS StepUp generated footprint
-
-0
-62
-62
-mFootprintLib
+mFootPrintLibrary
 Switch_E-Switch_PBH2UEENAGX_eec
 eswitch StepUp generated footprint
 
 0
 6
 1
-mFootprintLib
+mFootPrintLibrary
 TPS63070RNMR
 
 
 0
 52
 15
-mFootprintLib
+mFootPrintLibrary
 TerminalBlock_1x05_Horizontal_ScrewM2.54
 single screw terminal block 
 
 0
 5
 5
-mFootprintLib
+mFootPrintLibrary
 USB_A_90
 
 
 0
 7
 5
-mFootprintLib
+mFootPrintLibrary
 Varistor
 
 
 0
 2
 2
-mFootprintLib
+mFootPrintLibrary
 WBL2UOABQR05CLR
 WBL2UOABQR05CLR-2
 Switch
 0
 8
 8
-mFootprintLib
+mFootPrintLibrary
 YFF18SC
 
 
 0
 4
 3
-mFootprintLib
+mFootPrintLibrary
+conn-molex-usb-67329-8021
+usb StepUp generated footprint
+
+0
+8
+5
+mFootPrintLibraryCOPY
+(RUX)_Package_12_Pin_VQFN_HR
+
+
+0
+36
+12
+mFootPrintLibraryCOPY
+24_Ball_FBGA,_6x8mm,5x5_Ball_Footprint
+BGA-256, dimensions: http://www.issi.com/WW/pdf/66-67WVH8M8ALL-BLL.pdf, design rules: https://www.xilinx.com/support/documentation/user_guides/ug1099-bga-device-design-rules.pdf
+8M x 8 HyperRAM™ self-refresh DRAM array
+0
+24
+24
+mFootPrintLibraryCOPY
+AC connector
+
+
+0
+6
+3
+mFootPrintLibraryCOPY
+ACconnector2pad
+
+
+0
+4
+2
+mFootPrintLibraryCOPY
+BQ21040DBVR
+
+
+0
+18
+6
+mFootPrintLibraryCOPY
+DPST_conn
+
+
+0
+4
+4
+mFootPrintLibraryCOPY
+ECHU
+
+
+0
+2
+2
+mFootPrintLibraryCOPY
+ESDA6V8AV6
+SOT563
+SOT-563
+0
+6
+6
+mFootPrintLibraryCOPY
+ESD_0402_1005Metric
+SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+ESD protection
+0
+2
+2
+mFootPrintLibraryCOPY
+FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal
+
+connector Hirose FH12 horizontal
+0
+42
+41
+mFootPrintLibraryCOPY
+GSDR43
+
+
+0
+2
+2
+mFootPrintLibraryCOPY
+GSDR54
+
+
+0
+2
+2
+mFootPrintLibraryCOPY
+HANRUN_HR911105A
+
+
+0
+14
+14
+mFootPrintLibraryCOPY
+LXRW0YV600-054
+
+
+0
+4
+4
+mFootPrintLibraryCOPY
+MFC15-15S
+
+
+0
+4
+4
+mFootPrintLibraryCOPY
+MOLEX_51281-0594
+
+
+0
+7
+7
+mFootPrintLibraryCOPY
+NFC_antenna
+
+
+0
+3
+3
+mFootPrintLibraryCOPY
+NFM21PC
+
+
+0
+4
+3
+mFootPrintLibraryCOPY
+PS-22F43-L
+
+
+0
+8
+7
+mFootPrintLibraryCOPY
+RRC-MC20-180-10
+battery holder
+Standard Battery Pack Li-Ion
+0
+10
+5
+mFootPrintLibraryCOPY
+SC70-5
+SC70-5
+SC70-5
+0
+15
+5
+mFootPrintLibraryCOPY
+SM1210RGB
+https://www.bivar.com/Files/Datasheets/SM1210RGB.pdf
+RGB LED 1210
+0
+4
+4
+mFootPrintLibraryCOPY
+SMTM1632
+
+
+0
+3
+2
+mFootPrintLibraryCOPY
+SRP4012TA
+
+
+0
+2
+2
+mFootPrintLibraryCOPY
+SX-59HLS
+SX-59HLS StepUp generated footprint
+
+0
+62
+62
+mFootPrintLibraryCOPY
+Switch_E-Switch_PBH2UEENAGX_eec
+eswitch StepUp generated footprint
+
+0
+6
+1
+mFootPrintLibraryCOPY
+TBP-4725F-5-30-0000
+
+
+0
+5
+5
+mFootPrintLibraryCOPY
+TBR-6632F-5-30-0000
+
+
+0
+7
+6
+mFootPrintLibraryCOPY
+TPS63070RNMR
+
+
+0
+52
+15
+mFootPrintLibraryCOPY
+TerminalBlock_1x05_Horizontal_ScrewM2.54
+single screw terminal block 
+
+0
+5
+5
+mFootPrintLibraryCOPY
+USB_A_90
+
+
+0
+7
+5
+mFootPrintLibraryCOPY
+Varistor
+
+
+0
+2
+2
+mFootPrintLibraryCOPY
+WBL2UOABQR05CLR
+WBL2UOABQR05CLR-2
+Switch
+0
+8
+8
+mFootPrintLibraryCOPY
+YFF18SC
+
+
+0
+4
+3
+mFootPrintLibraryCOPY
 conn-molex-usb-67329-8021
 usb StepUp generated footprint
 
