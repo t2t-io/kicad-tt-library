@@ -5,6 +5,11 @@ D Power symbol creates a global label with name "+12VR"
 K power-flag
 $ENDCMP
 #
+$CMP RW-SS-112D
+D Standex Meder DIP reed relay, SPDT
+K Single Pole Reed Relay SPDT
+$ENDCMP
+#
 $CMP SRS-1212
 D 0.5W DC-DC Regulated Single Output Converter
 K 0.5W DC-DC Regulated Single Output Converter
