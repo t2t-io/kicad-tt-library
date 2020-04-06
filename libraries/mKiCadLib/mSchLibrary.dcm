@@ -5,6 +5,48 @@ D Power symbol creates a global label with name "+12VR"
 K power-flag
 $ENDCMP
 #
+$CMP AZ1117-1.5
+D 1A 20V Fixed LDO Linear Regulator, 1.5V, SOT-89/SOT-223/TO-220/TO-252/TO-263
+K Fixed Voltage Regulator 1A Positive LDO
+F https://www.diodes.com/assets/Datasheets/AZ1117.pdf
+$ENDCMP
+#
+$CMP AZ1117-1.8
+D 1A 20V Fixed LDO Linear Regulator, 1.8V, SOT-89/SOT-223/TO-220/TO-252/TO-263
+K Fixed Voltage Regulator 1A Positive LDO
+F https://www.diodes.com/assets/Datasheets/AZ1117.pdf
+$ENDCMP
+#
+$CMP AZ1117-2.5
+D 1A 20V Fixed LDO Linear Regulator, 2.5V, SOT-89/SOT-223/TO-220/TO-252/TO-263
+K Fixed Voltage Regulator 1A Positive LDO
+F https://www.diodes.com/assets/Datasheets/AZ1117.pdf
+$ENDCMP
+#
+$CMP AZ1117-2.85
+D 1A 20V Fixed LDO Linear Regulator, 2.85V, SOT-89/SOT-223/TO-220/TO-252/TO-263
+K Fixed Voltage Regulator 1A Positive LDO
+F https://www.diodes.com/assets/Datasheets/AZ1117.pdf
+$ENDCMP
+#
+$CMP AZ1117-3.3
+D 1A 20V Fixed LDO Linear Regulator, 3.3V, SOT-89/SOT-223/TO-220/TO-252/TO-263
+K Fixed Voltage Regulator 1A Positive LDO
+F https://www.diodes.com/assets/Datasheets/AZ1117.pdf
+$ENDCMP
+#
+$CMP AZ1117-5.0
+D 1A 20V Fixed LDO Linear Regulator, 5.0V, SOT-89/SOT-223/TO-220/TO-252/TO-263
+K Fixed Voltage Regulator 1A Positive LDO
+F https://www.diodes.com/assets/Datasheets/AZ1117.pdf
+$ENDCMP
+#
+$CMP AZ1117C-1.2
+D 1A 20V Fixed LDO Linear Regulator, 1.2V, SOT-89/SOT-223/TO-220/TO-252/TO-263
+K Fixed Voltage Regulator 1A Positive LDO
+F https://www.diodes.com/assets/Datasheets/AZ1117.pdf
+$ENDCMP
+#
 $CMP RW-SS-112D
 D Standex Meder DIP reed relay, SPDT
 K Single Pole Reed Relay SPDT
