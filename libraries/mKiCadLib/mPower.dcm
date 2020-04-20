@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +12V_YAG_PSU
+D Power symbol creates a global label with name "+12VR"
+K power-flag
+$ENDCMP
+#
+#End Doc Library
