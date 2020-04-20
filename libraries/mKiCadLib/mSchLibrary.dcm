@@ -100,7 +100,7 @@ K PWM Chopper Type DC Brushed Motor Driver
 F https://toshiba.semicon-storage.com/tw/semiconductor/product/motor-driver-ics/brushed-dc-motor-driver-ics/detail.TB67H451FNG.html
 $ENDCMP
 #
-$CMP TC78H600FTG
+$CMP TC78H600FNG
 D DUAL-BRIDGE DRIVER IC FOR DC MOTORS
 K DUAL-BRIDGE DRIVER IC FOR DC MOTORS
 F https://toshiba.semicon-storage.com/ap-en/semiconductor/product/motor-driver-ics/brushed-dc-motor-driver-ics/detail.TC78H600FTG.html
