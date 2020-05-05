@@ -41,43 +41,43 @@ K Fixed Voltage Regulator 1A Positive LDO
 F https://www.diodes.com/assets/Datasheets/AZ1117.pdf
 $ENDCMP
 #
-$CMP AZ1117C-1.2
+$CMP AZ1117CR-1.2TRG1
 D 1.35A 20V Fixed LDO Linear Regulator, 1.2V, SOT-89/SOT-223/TO-220/TO-252/TO-263
 K Fixed Voltage Regulator 1.35A Positive LDO
 F https://www.diodes.com/assets/Datasheets/AZ1117.pdf
 $ENDCMP
 #
-$CMP AZ1117C-1.5
+$CMP AZ1117CR-1.5TRG1
 D 1.35A 20V Fixed LDO Linear Regulator, 1.2V, SOT-89/SOT-223/TO-220/TO-252/TO-263
 K Fixed Voltage Regulator 1.35A Positive LDO
 F https://www.diodes.com/assets/Datasheets/AZ1117C.pdf
 $ENDCMP
 #
-$CMP AZ1117C-1.8
+$CMP AZ1117CR-1.8TRG1
 D 1.35A 20V Fixed LDO Linear Regulator, 1.2V, SOT-89/SOT-223/TO-220/TO-252/TO-263
 K Fixed Voltage Regulator 1.35A Positive LDO
 F https://www.diodes.com/assets/Datasheets/AZ1117C.pdf
 $ENDCMP
 #
-$CMP AZ1117C-2.5
+$CMP AZ1117CR-2.5TRG1
 D 1.35A 20V Fixed LDO Linear Regulator, 1.2V, SOT-89/SOT-223/TO-220/TO-252/TO-263
 K Fixed Voltage Regulator 1.35A Positive LDO
 F https://www.diodes.com/assets/Datasheets/AZ1117C.pdf
 $ENDCMP
 #
-$CMP AZ1117C-2.85
+$CMP AZ1117CR-2.85TRG1
 D 1.35A 20V Fixed LDO Linear Regulator, 1.2V, SOT-89/SOT-223/TO-220/TO-252/TO-263
 K Fixed Voltage Regulator 1.35A Positive LDO
 F https://www.diodes.com/assets/Datasheets/AZ1117C.pdf
 $ENDCMP
 #
-$CMP AZ1117C-3.3
+$CMP AZ1117CR-3.3TRG1
 D 1.35A 20V Fixed LDO Linear Regulator, 1.2V, SOT-89/SOT-223/TO-220/TO-252/TO-263
 K Fixed Voltage Regulator 1.35A Positive LDO
 F https://www.diodes.com/assets/Datasheets/AZ1117C.pdf
 $ENDCMP
 #
-$CMP AZ1117C-5.0
+$CMP AZ1117CR-5.0TRG1
 D 1.35A 20V Fixed LDO Linear Regulator, 1.2V, SOT-89/SOT-223/TO-220/TO-252/TO-263
 K Fixed Voltage Regulator 1.35A Positive LDO
 F https://www.diodes.com/assets/Datasheets/AZ1117C.pdf
