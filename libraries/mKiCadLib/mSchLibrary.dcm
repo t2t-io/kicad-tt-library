@@ -89,6 +89,10 @@ K Fixed Voltage Regulator 1.35A Positive LDO
 F https://www.diodes.com/assets/Datasheets/AZ1117C.pdf
 $ENDCMP
 #
+$CMP EMIFIL
+F https://www.murata.com/zh-cn/products/productdetail?partno=DSS6NZ82A103Q55%23
+$ENDCMP
+#
 $CMP RW-SS-112D
 D Standex Meder DIP reed relay, SPDT
 K Single Pole Reed Relay SPDT
