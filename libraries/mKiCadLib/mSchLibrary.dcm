@@ -119,6 +119,7 @@ $ENDCMP
 $CMP TPS55340RTET
 D Integrated 5-A Wide Input Range Boost/SEPIC/Flyback DC/DC Regulator
 K Integrated 5-A Wide Input Range Boost/SEPIC/Flyback DC/DC Regulator
+F http://www.ti.com/lit/ds/symlink/tps55340.pdf?&ts=1589873621316
 $ENDCMP
 #
 #End Doc Library
