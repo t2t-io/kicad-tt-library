@@ -7,12 +7,15 @@
 *.bak
 *.bck
 *.kicad_pcb-bak
+*.sch-bak
 *~
 _autosave-*
 *.tmp
 *-rescue.lib
+*-cache.lib
 *-save.pro
 *-save.kicad_pcb
+fp-info-cache
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -22,8 +25,22 @@ _autosave-*
 *.ses
 
 # Exported BOM files
+# BOM plugin output
+*.csv.tmp
 *.xml
 *.csv
 
-# OS specific files
+# Reports
+*.rpt
+
+# CPL data generated from PCB
+*.pos
+
+# Gerbers
+*.gbr
+
+# Drill files
+*.drl
+
+# Mac OS X
 .DS_Store
