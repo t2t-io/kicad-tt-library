@@ -93,6 +93,11 @@ $CMP CLQ6A-TKW-C1L1R1H1QBB7935CC3
 F Manufacturer Recommendation
 $ENDCMP
 #
+$CMP DRV8832
+D H Bridge motor driver
+F https://www.ti.com/lit/ds/symlink/drv8832.pdf?ts=1595914909109&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FDRV8832
+$ENDCMP
+#
 $CMP EMIFIL
 F https://www.murata.com/zh-cn/products/productdetail?partno=DSS6NZ82A103Q55%23
 $ENDCMP
