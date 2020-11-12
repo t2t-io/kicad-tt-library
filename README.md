@@ -1,3 +1,3 @@
-# cb1-hw-lib
+# kicad-tt-library
 
-KiCad libraries for those common parts/components used in CB1 projects/products.
+KiCad libraries for those common parts/components used in T2T projects/products.
