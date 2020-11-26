@@ -133,6 +133,11 @@ $CMP STM32G031J6M6
 F https://www.st.com/resource/en/datasheet/stm32g031j6.pdf
 $ENDCMP
 #
+$CMP STM32G431x6_x8_xB
+D ARM M4
+F https://www.st.com/resource/en/datasheet/stm32g431cb.pdf
+$ENDCMP
+#
 $CMP TB67H451FNG
 D PWM Chopper Type DC Brushed Motor Driver
 K PWM Chopper Type DC Brushed Motor Driver
