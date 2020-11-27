@@ -89,6 +89,10 @@ K Fixed Voltage Regulator 1.35A Positive LDO
 F https://www.diodes.com/assets/Datasheets/AZ1117C.pdf
 $ENDCMP
 #
+$CMP CC-P_MB-ZPD
+D 2 LED
+$ENDCMP
+#
 $CMP CLQ6A-TKW-C1L1R1H1QBB7935CC3
 F Manufacturer Recommendation
 $ENDCMP
