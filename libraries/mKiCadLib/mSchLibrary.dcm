@@ -106,6 +106,10 @@ $CMP EMIFIL
 F https://www.murata.com/zh-cn/products/productdetail?partno=DSS6NZ82A103Q55%23
 $ENDCMP
 #
+$CMP GS-SH-212T
+D 12V DPDT SUBMINIATURE RELAY 
+$ENDCMP
+#
 $CMP LED2000PUR
 D 3 A monolithic step-down current source with synchronous
 K LED buck driver
