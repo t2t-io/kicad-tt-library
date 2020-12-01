@@ -107,7 +107,8 @@ F https://www.murata.com/zh-cn/products/productdetail?partno=DSS6NZ82A103Q55%23
 $ENDCMP
 #
 $CMP GS-SH-212T
-D 12V DPDT SUBMINIATURE RELAY 
+D 12V DPDT SUBMINIATURE RELAY
+F https://www.silicon-ark.co.uk/datasheets/goodsky-gs-sh-relays-datasheet.pdf
 $ENDCMP
 #
 $CMP LED2000PUR
