@@ -127,6 +127,10 @@ K NUCLEO-G431KB
 F https://www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf
 $ENDCMP
 #
+$CMP RI-STU-MRD2
+F https://www.digikey.tw/product-detail/zh/texas-instruments/RI-STU-MRD2/296-35897-ND/3588810
+$ENDCMP
+#
 $CMP RW-SS-112D
 D Standex Meder DIP reed relay, SPDT
 K Single Pole Reed Relay SPDT
