@@ -1,4 +1,4 @@
-(module RI-STU-MRD2 (layer F.Cu) (tedit 5FCDDF39)
+(module RI-STU-MRD2 (layer F.Cu) (tedit 5FD0D150)
   (fp_text reference REF** (at 0 23) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -44,4 +44,9 @@
   (pad 17 thru_hole circle (at 12.7 15.24) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 29 thru_hole circle (at 12.7 -15.24) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 28 thru_hole circle (at 12.7 -12.7) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
+  (model ${KIPRJMOD}/../../externals/kicad-tt-library/libraries/mKiCadLib/3D_models/Module/RI-STU-MRD2.step
+    (offset (xyz 0 0 9.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
