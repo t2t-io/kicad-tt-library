@@ -175,4 +175,8 @@ K Integrated 5-A Wide Input Range Boost/SEPIC/Flyback DC/DC Regulator
 F http://www.ti.com/lit/ds/symlink/tps55340.pdf?&ts=1589873621316
 $ENDCMP
 #
+$CMP WE-LPCC
+F https://www.we-online.com/catalog/en/WE-LPCC?sq=7448680200#7448680200
+$ENDCMP
+#
 #End Doc Library
