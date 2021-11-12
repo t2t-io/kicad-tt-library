@@ -1,5 +1,5 @@
 (footprint "dummy" (version 20210424) (generator pcbnew) (layer "F.Cu")
-  (tedit 618E2EB6)
+  (tedit 618E336B)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp dc862e6f-4265-4184-b399-163f9ce6623b)
