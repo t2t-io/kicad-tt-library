@@ -1,5 +1,5 @@
 (footprint "dummy" (version 20210424) (generator pcbnew) (layer "F.Cu")
-  (tedit 618E2774)
+  (tedit 618E2838)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp dc862e6f-4265-4184-b399-163f9ce6623b)
@@ -13,7 +13,7 @@
     (tstamp 455e5e9d-209f-4d74-ba0c-1b3a81c17056)
   )
   (fp_circle (center 0 0) (end 4.016093 0) (layer "Dwgs.User") (width 0.12) (fill none) (tstamp 9f3f7fb8-25d9-4a2d-9465-c31d62bc2a70))
-  (model "F:/project/vena-ee-design/externals/kicad-tt-library/libraries/mKiCadLib/3D_models/Module/CAN_SPI_click_5V_v100.step"
+  (model "${KIPRJMOD}/../../externals/kicad-tt-library/libraries/mKiCadLib/3D_models/Module/CAN_SPI_click_5V_v100.step"
     (offset (xyz 0 0 11.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
