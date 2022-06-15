@@ -505,6 +505,7 @@
     (solder_mask_margin 0.1016) (tstamp a7919d6f-5cdd-4804-b7ac-62cfa830c33f))
   (pad "33" smd rect (at 1.25 5.275 180) (size 0.3 1.55) (layers "F.Cu" "F.Mask")
     (solder_mask_margin 0.1016) (tstamp c243ff0e-b9b8-4ed3-bac7-aebfdd3ea969))
+  (pad "33" thru_hole circle (at 4 -19.99) (size 6 6) (drill 3.8) (layers *.Cu *.Mask) (tstamp f3001736-8c85-400b-a7eb-e2953daf99f4))
   (pad "34" smd rect (at 1 -2.275 180) (size 0.3 1.55) (layers "F.Cu" "F.Mask")
     (solder_mask_margin 0.1016) (tstamp 120d5c34-42b1-4760-a910-3ec442962e9f))
   (pad "35" smd rect (at 0.75 5.275 180) (size 0.3 1.55) (layers "F.Cu" "F.Mask")
