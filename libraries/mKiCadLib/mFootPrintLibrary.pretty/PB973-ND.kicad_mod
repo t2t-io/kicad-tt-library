@@ -43,4 +43,9 @@
       6ce41548-baad-4875-92b0-3209445ede6e
     )
   )
+  (model "${KIPRJMOD}/../../externals/kicad-tt-library/libraries/mKiCadLib/3D_models/Relay/PB973-ND.step"
+    (offset (xyz -20.25 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

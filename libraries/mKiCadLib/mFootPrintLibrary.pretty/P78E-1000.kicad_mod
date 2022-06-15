@@ -32,8 +32,8 @@
       c5b9402b-8d30-445c-9fdd-677320634210
     )
   )
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl"
-    (offset (xyz 0 0 0))
+  (model "${KIPRJMOD}/../../externals/kicad-tt-library/libraries/mKiCadLib/3D_models/LDO/P78E.step"
+    (offset (xyz 0 1.75 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
