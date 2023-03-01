@@ -12268,7 +12268,7 @@
     (property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6" (at -20.32 -10.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at -20.32 -10.16 0)
+    (property "Datasheet" "https://www.mouser.tw/datasheet/2/427/si1865ddl-1764206.pdf" (at -20.32 -10.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "Si1865DDL_0_0"
