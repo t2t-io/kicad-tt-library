@@ -47,4 +47,9 @@
   (pad "8" smd rect (at 1.27 -2.475) (size 0.74 4.09) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a4dbc840-8f78-4d3b-ad08-1f44791f88a9))
   (pad "9" smd rect (at 2.54 2.475) (size 0.74 4.09) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp de574a2b-be83-4a0b-bcbb-0e61e3fa22d7))
   (pad "10" smd rect (at 2.54 -2.475) (size 0.74 4.09) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp da990841-35e8-4ad3-954c-d148f1b2ce44))
+  (model "${KIPRJMOD}/../../externals/kicad-tt-library/libraries/mKiCadLib/3D_models/Connector/EHF-105-01-S-D-SM.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
