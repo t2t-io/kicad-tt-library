@@ -77,8 +77,8 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 3278ab69-f34a-4bf0-8774-685ecd150046))
   (fp_line (start 9.75 4.27) (end -2.071 4.27)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 31cbb4e1-301b-41e3-84aa-8889ec650a31))
-  (pad "1" thru_hole roundrect (at -0.571 0 90) (size 1.5 2) (drill 0.8) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.227) (tstamp 7a426202-b7c7-4d3c-84a0-2fe4f627f7b5))
-  (pad "2" thru_hole oval (at -0.571 2.54 90) (size 1.5 2) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp a5893954-f48f-4fca-8725-699a6344cdb1))
+  (pad "1" thru_hole roundrect (at 0 0 90) (size 1.5 2) (drill 0.8) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.227) (tstamp 7a426202-b7c7-4d3c-84a0-2fe4f627f7b5))
+  (pad "2" thru_hole oval (at 0 2.54 90) (size 1.5 2) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp a5893954-f48f-4fca-8725-699a6344cdb1))
   (pad "3" thru_hole oval (at 7.6 2.54 90) (size 1.5 2) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp e8a63a6b-a3d7-4d9f-9310-5c9ab498e5d4))
   (pad "4" thru_hole oval (at 7.6 0 90) (size 1.5 2) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 3bf26d1f-7328-40ae-aa59-add06202edf0))
   (model "${KIPRJMOD}/../../externals/kicad-tt-library/libraries/mKiCadLib/3D_models/Optocoupler/TCST1300-ND.step"
