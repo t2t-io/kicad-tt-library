@@ -52,4 +52,9 @@
   (pad "5" thru_hole circle (at -31.4 -4.2) (size 3 3) (drill 2) (layers "*.Cu" "*.Mask") (tstamp 120ce966-a94f-40c1-b06c-e611ef94ec1d))
   (pad "6" thru_hole circle (at -32.6 4.2) (size 3 3) (drill 2) (layers "*.Cu" "*.Mask") (tstamp 578a2908-1c8c-4b31-8e67-1aeb89cc8d1d))
   (pad "7" thru_hole circle (at 32.6 4.2) (size 3 3) (drill 2) (layers "*.Cu" "*.Mask") (tstamp f5fed50c-821f-442d-a778-82b3bbcf1023))
+  (model "${KIPRJMOD}/../../externals/kicad-tt-library/libraries/mKiCadLib/3D_models/Resistor/PTA6043-2010CIB103.stp"
+    (offset (xyz 0 -8.5 10.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
