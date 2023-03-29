@@ -7,7 +7,7 @@
   (property "mpn" "3313J-1-202E")
   (property "octopart" "https://octopart.com/3313j-1-202e-bourns-148438?r=sp")
   (property "spec" "2 kOhms 0.125W, 1/8W J Lead Surface Mount Trimmer Potentiometer Cermet 1.0 Turn Top Adjustment")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 5 0.71) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f436ce67-e6cc-4069-83fd-a2cce6c6ea9a)
