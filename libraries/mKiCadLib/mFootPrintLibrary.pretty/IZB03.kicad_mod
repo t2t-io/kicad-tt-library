@@ -1,6 +1,6 @@
 (footprint "IZB03" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr smd)
+  (attr through_hole)
   (fp_text reference "REF**" (at -2.54 -5.08 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.1)))
     (tstamp 2324e856-9c9d-457f-8e56-341d094f4eb2)
