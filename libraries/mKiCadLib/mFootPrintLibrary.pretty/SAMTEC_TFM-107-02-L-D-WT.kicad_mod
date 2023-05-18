@@ -64,6 +64,6 @@
   (model "${KIPRJMOD}/../../externals/kicad-tt-library/libraries/mKiCadLib/3D_models/Connector/TFM-107-02-L-D-WT.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 180))
+    (rotate (xyz -90 0 0))
   )
 )
