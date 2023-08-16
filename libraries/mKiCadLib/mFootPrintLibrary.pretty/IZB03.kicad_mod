@@ -30,4 +30,9 @@
   (pad "6" thru_hole oval (at 3.81 -2.25 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 6b25b90d-536a-4c02-a935-9339afaf892b))
   (pad "7" thru_hole oval (at 6.35 -2.25 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 2952b15a-ebe6-41bb-a3e4-037816c42ddf))
   (pad "8" thru_hole oval (at 8.89 -2.25 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 84dfd5fe-a92d-4249-9ce9-fca24ae135f4))
+  (model "${KIPRJMOD}/../../externals/kicad-tt-library/libraries/mKiCadLib/3D_models/DCDC/IZB03.STEP"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
 )
