@@ -237,9 +237,9 @@
 		(remove_unused_layers no)
 		(uuid "49ccf601-643f-45ab-bf3b-f7fa24b11583")
 	)
-	(model "${KIPRJMOD}/libs/3D/47155-4001.stp"
+	(model "${KIPRJMOD}/../../externals/kicad-tt-library/libraries/mKiCadLib/3D_models/Connector/SATA_15p_47155-4001.stp"
 		(offset
-			(xyz 0 0 0)
+			(xyz -0.254 0.635 3.81)
 		)
 		(scale
 			(xyz 1 1 1)
