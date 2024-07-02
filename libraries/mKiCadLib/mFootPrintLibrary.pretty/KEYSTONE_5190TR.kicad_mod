@@ -1,0 +1,223 @@
+(footprint "KEYSTONE_5190TR"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 1.425 -3.385 0)
+		(layer "F.SilkS")
+		(uuid "819f7280-d10b-4cff-85f5-6e23c5d59b55")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "KEYSTONE_5190TR"
+		(at 7.775 3.385 0)
+		(layer "F.Fab")
+		(uuid "ba0682f1-1314-4582-b408-53984d248db4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "38981eaf-bc3e-4498-8890-6e8c8429f663")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "db454459-950b-414f-877e-31728d55a177")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "51555f55-0c8b-47ff-90e4-2e62271b4c01")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.25 -1.5)
+		(end -1.25 -1.07)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3629c84a-7452-416f-bb7b-cf9eabb58231")
+	)
+	(fp_line
+		(start -1.25 1.5)
+		(end -1.25 1.07)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f616e5ff-f21f-43bd-90da-63b9eaf5bc74")
+	)
+	(fp_line
+		(start -1.25 1.5)
+		(end 1.25 1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "79639b1b-f3db-4756-b28d-c4b654820f34")
+	)
+	(fp_line
+		(start 1.25 -1.5)
+		(end -1.25 -1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "df8205c3-5575-4743-b1df-9bd786374049")
+	)
+	(fp_line
+		(start 1.25 -1.07)
+		(end 1.25 -1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "17f11fe9-77c2-46f4-bd8b-a8ef7b347485")
+	)
+	(fp_line
+		(start 1.25 1.5)
+		(end 1.25 1.07)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a158468c-7ff6-4327-970b-e16e89185f10")
+	)
+	(fp_line
+		(start -1.75 -1.75)
+		(end -1.75 1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7810481a-b6f9-4114-97b2-5e7a42d6e536")
+	)
+	(fp_line
+		(start -1.75 1.75)
+		(end 1.75 1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2f8162d1-f1f1-4411-b2be-4f88f2cfec91")
+	)
+	(fp_line
+		(start 1.75 -1.75)
+		(end -1.75 -1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ceb9e5d8-ee61-4c6c-a695-daf1c5efa957")
+	)
+	(fp_line
+		(start 1.75 1.75)
+		(end 1.75 -1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4b7066d1-a5af-4318-bba5-dcea14d4e489")
+	)
+	(fp_line
+		(start -1.25 -1.5)
+		(end -1.25 1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9d357c95-2583-4df5-8720-168e6b7cfa16")
+	)
+	(fp_line
+		(start -1.25 1.5)
+		(end 1.25 1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b3ff720a-3792-478a-83c3-2ee855d6c00d")
+	)
+	(fp_line
+		(start 1.25 -1.5)
+		(end -1.25 -1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7e459960-8952-4c86-a692-17aab75c81c8")
+	)
+	(fp_line
+		(start 1.25 1.5)
+		(end 1.25 -1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d69cd8ae-46d5-4b64-b5d3-50e7339a7f15")
+	)
+	(pad "TP" smd rect
+		(at 0 0)
+		(size 3 1.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "b653bd05-30ab-4820-8363-f198ba3be1a4")
+	)
+	(model "I:/project/aventa-ee-design/externals/kicad-tt-library/libraries/mKiCadLib/3D_models/Connector/5190TR.step"
+		(offset
+			(xyz -1.45 2.3 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
