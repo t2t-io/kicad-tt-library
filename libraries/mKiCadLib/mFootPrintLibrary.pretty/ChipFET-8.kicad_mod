@@ -1,0 +1,169 @@
+(footprint "ChipFET-8"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "MOSFET -20V -4.1A Dual P-Channel")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "99793940-0be0-45b4-8001-bc21a8671977")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Val**"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3a7e950c-cedd-417c-96cb-0d2315f8b050")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.mouser.tw/ProductDetail/onsemi/NTHD4102PT1G?qs=ZXBb0xZ9WeCPVpsRMQZdaA%3D%3D&utm_id=9719368233&utm_source=google&utm_medium=cpc&utm_marketing_tactic=apaccorp&gad_source=1&gad_campaignid=9719368233&gbraid=0AAAAADn_wf1b5JiPE1pKO57uqHBv4xRK0&gclid=Cj0KCQjwgpzIBhCOARIsABZm7vGpdCqCs0Z_olRdE4SBiDcjYOpbhf5DwsdnYosrb9ViNeR8tWM-Y78aAoFoEALw_wcB"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d50f9842-05e1-4a1c-b2d1-5f3101071b5b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "efa357b2-f31d-4aa9-a43f-40b03b775468")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.524 -1.9304)
+		(end -1.524 -3.4544)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "848ff959-14b9-4b07-8210-13c7b06f2a30")
+	)
+	(fp_line
+		(start -1.2192 -1.6256)
+		(end -1.524 -1.9304)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e96bebd9-c0e6-4cab-97ca-40d637b27597")
+	)
+	(fp_line
+		(start 1.524 -3.4544)
+		(end -1.524 -3.4544)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a7c2a734-6feb-4cd5-9648-a41de7851409")
+	)
+	(fp_line
+		(start 1.524 -1.6256)
+		(end -1.2192 -1.6256)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f620e702-4481-45e9-a608-7d1dde0d75c5")
+	)
+	(fp_line
+		(start 1.524 -1.6256)
+		(end 1.524 -3.4544)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "870df803-a7d6-4ac8-a650-2d4b3677a6cb")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "6e6d0648-35e2-4d85-a662-95892bf995bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.9906 -1.5494)
+		(size 0.4064 0.5588)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1f820507-693f-48eb-8269-5ebbc7a9f3e2")
+	)
+	(pad "2" smd rect
+		(at -0.3302 -1.5494)
+		(size 0.4064 0.5588)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b5eaf17e-da79-4af0-a158-4afdc84478ca")
+	)
+	(pad "3" smd rect
+		(at 0.3302 -1.5494)
+		(size 0.4064 0.5588)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4ac550cb-10c8-4c5c-82b1-9b35b9a72775")
+	)
+	(pad "4" smd rect
+		(at 0.9906 -1.5494)
+		(size 0.4064 0.5588)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4ead6dfb-643b-4b74-a673-3feff17d5196")
+	)
+	(pad "5" smd rect
+		(at 0.9906 -3.5306)
+		(size 0.4064 0.5588)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "25db9e99-af76-4a31-ba92-2328ad8ae6ab")
+	)
+	(pad "6" smd rect
+		(at 0.3302 -3.5306)
+		(size 0.4064 0.5588)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "afaaa294-f0ee-4769-a31d-c6d3ef22db9a")
+	)
+	(pad "7" smd rect
+		(at -0.3302 -3.5306)
+		(size 0.4064 0.5588)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3a20270b-7105-4a30-9038-07396ca448b0")
+	)
+	(pad "8" smd rect
+		(at -0.9906 -3.5306)
+		(size 0.4064 0.5588)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1f3f97ff-715f-43db-aa92-21932daf4b56")
+	)
+	(embedded_fonts no)
+)
