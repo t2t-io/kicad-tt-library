@@ -198,32 +198,28 @@
 		(layer "F.Fab")
 		(uuid "01c847d2-3646-4c6c-a6e9-67d8db38ba49")
 	)
-	(pad "A1" smd rect
+	(pad "1" smd rect
 		(at -1.325 -0.375)
 		(size 0.55 0.55)
 		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.102)
 		(uuid "89ec27f0-0c79-4392-8b0b-17356bdc514d")
 	)
-	(pad "A2" smd rect
+	(pad "2" smd rect
 		(at -1.325 0.375)
 		(size 0.55 0.55)
 		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.102)
 		(uuid "566bcebf-5bd6-4f02-a42a-bffc2728d002")
 	)
-	(pad "B1" smd rect
+	(pad "3" smd rect
 		(at 1.325 -0.375)
 		(size 0.55 0.55)
 		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.102)
 		(uuid "21ee9367-8c2f-4ab4-81cd-d190fab19e2e")
 	)
-	(pad "B2" smd rect
+	(pad "4" smd rect
 		(at 1.325 0.375)
 		(size 0.55 0.55)
 		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.102)
 		(uuid "c8126695-013a-473c-a246-c73ed0fba425")
 	)
 	(embedded_fonts no)
